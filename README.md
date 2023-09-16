@@ -31,10 +31,6 @@ simple qrcode generator with userfriendly gui.
 
 ***Size***: Changes the "line/block thickness" of the QR-Code. Your image resolution will be <number_of_blocks(determined by version and content) * size> pixels.
 
-***Enable Preview***: Extends the window to the right and shows a live preview of your QR-Code. Using high versions whith preview enabled may lead to lag.
-
-***Enable Logo***: Adds a chosen logo to the center of the QR-Code. This option disables .svg export and some other sliders. Saving a QR-Code with a logo, will always be 2000x2000px image.
-
 ***Save***: Generates and saves the QR-Code.
 
 ***Open folder***: Opens the file explorer in the folder where the QR-Codes are saved.
